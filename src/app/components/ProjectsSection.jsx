@@ -20,7 +20,7 @@ const projectsData = [
     description: "Project 2",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/https://github.com/Rambabubade/admin-panel",
+    gitUrl: "https://github.com/Rambabubade/admin-panel",
     previewUrl: "/",
   },
   {
@@ -29,7 +29,7 @@ const projectsData = [
     description: "Project 3 ",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/https://github.com/Rambabubade/amazon_clone",
+    gitUrl: "https://github.com/Rambabubade/amazon_clone",
     previewUrl: "/",
   },
   {
@@ -38,7 +38,7 @@ const projectsData = [
     description: "Project 4",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "/https://github.com/Rambabubade/youtube-transcript-summariser",
+    gitUrl: "https://github.com/Rambabubade/youtube-transcript-summariser",
     previewUrl: "/",
   },
   {
@@ -47,7 +47,7 @@ const projectsData = [
     description: "Project 5",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "/https://github.com/Rambabubade/library-management1",
+    gitUrl: "https://github.com/Rambabubade/library-management1",
     previewUrl: "/",
   },
 ];
